@@ -1,1 +1,6 @@
+streamlit
+pandas
 folium
+streamlit_folium
+matplotlib
+seaborn
